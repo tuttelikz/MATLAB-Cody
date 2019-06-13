@@ -1,4 +1,4 @@
-### My solutions to 23/100 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 24/100 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -24,4 +24,5 @@
 |4,564|[Problem 20](https://github.com/tuttelikz/MATLAB-Cody/blob/master/sumDigits.m)|Summing digits [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/20)|
 |3,679|[Problem 22](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn.m)|Remove the vowels [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/22)|
 |3,597|[Problem 30](https://github.com/tuttelikz/MATLAB-Cody/blob/master/complexSort.m)|Sort a list of complex numbers based on far they are from the origin [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/30)|
+|3,213|[Problem 18](https://github.com/tuttelikz/MATLAB-Cody/blob/master/bullseye.m)|Bullseye Matrix [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/18)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
