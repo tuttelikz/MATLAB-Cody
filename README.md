@@ -1,8 +1,8 @@
 ### My solutions to 23/100 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
-
+https://github.com/tuttelikz/MATLAB-Cody
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
-|33,022|[Problem 1](https://github.com/tuttelikz/TBL_ImageProcessing/blob/master/MATLAB/CODY/times2.m)|Times 2 - START HERE [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/1)|
+|33,022|[Problem 1](https://github.com/tuttelikz/MATLAB-Cody/times2.m)|Times 2 - START HERE [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/1)|
 |27,087|[Problem 2](https://github.com/tuttelikz/TBL_ImageProcessing/blob/master/MATLAB/CODY/oneToTen.m)|Make the vector [1 2 3 4 5 6 7 8 9 10] [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/2)|
 |23,225|[Problem 3](https://github.com/tuttelikz/TBL_ImageProcessing/blob/master/MATLAB/CODY/vecsum.m)|Find the sum of all the numbers of the input vector [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/3)|
 |20,509|[Problem 8](https://github.com/tuttelikz/TBL_ImageProcessing/blob/master/MATLAB/CODY/add_two_numbers.m)|Add two numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/8)|
