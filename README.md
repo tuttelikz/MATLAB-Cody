@@ -29,4 +29,5 @@
 |2,923|[Problem 16](https://github.com/tuttelikz/MATLAB-Cody/blob/master/nearZero.m)|Return the largest number that is adjacent to a zero [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/16)|
 |2,797|[Problem 94](https://github.com/tuttelikz/MATLAB-Cody/blob/master/targetSort.m)|Target sorting [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/94)|
 |2,358|[Problem 13](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refccn.m)|Remove all the consonants [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/13)|
+|1,909|[Problem 42](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_product.m)|Find the alphabetic word product [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/42)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
