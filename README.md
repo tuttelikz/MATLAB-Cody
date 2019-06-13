@@ -1,4 +1,4 @@
-### My solutions to 29/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 30/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -30,4 +30,5 @@
 |2,797|[Problem 94](https://github.com/tuttelikz/MATLAB-Cody/blob/master/targetSort.m)|Target sorting [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/94)|
 |2,358|[Problem 13](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refccn.m)|Remove all the consonants [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/13)|
 |1,909|[Problem 42](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_product.m)|Find the alphabetic word product [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/42)|
+|1,160|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
