@@ -1,4 +1,4 @@
-### My solutions to 36/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 37/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -36,5 +36,6 @@
 |1,672|[Problem 46](https://github.com/tuttelikz/MATLAB-Cody/blob/master/which_doors_open.m)|Which doors are open? [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/46)|
 |1,617|[Problem 73](https://github.com/tuttelikz/MATLAB-Cody/blob/master/replace_nans.m)|Replace NaNs with the number that appears to its left in the row. [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/73)|
 |1,500|[Problem 74](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalanced.m)|Balanced number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/74)|
+|1,462|[Problem 35](https://github.com/tuttelikz/MATLAB-Cody/blob/master/quote_doubler.m)|Quote Doubler [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/35)|
 |1,160|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
