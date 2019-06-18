@@ -31,6 +31,7 @@
 |2,580|[Problem 29](https://github.com/tuttelikz/MATLAB-Cody/blob/master/nearestNumbers.m)|Nearest Numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/29)|
 |2,358|[Problem 13](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refccn.m)|Remove all the consonants [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/13)|
 |2,246|[Problem 15](https://github.com/tuttelikz/MATLAB-Cody/blob/master/lengthOnes.m)|Find the longest sequence of 1's in a binary sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/15)|
+|2,117|[Problem 41](https://github.com/tuttelikz/MATLAB-Cody/blob/master/cellstr_joiner.m)|Cell joiner [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/41)|
 |1,909|[Problem 42](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_product.m)|Find the alphabetic word product [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/42)|
 |1,672|[Problem 46](https://github.com/tuttelikz/MATLAB-Cody/blob/master/which_doors_open.m)|Which doors are open? [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/46)|
 |1,617|[Problem 73](https://github.com/tuttelikz/MATLAB-Cody/blob/master/replace_nans.m)|Replace NaNs with the number that appears to its left in the row. [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/73)|
