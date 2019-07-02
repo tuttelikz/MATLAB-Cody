@@ -1,4 +1,4 @@
-### My solutions to 44/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 45/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -46,3 +46,4 @@
 |1,160|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |960|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
+|910|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
