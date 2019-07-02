@@ -1,4 +1,4 @@
-### My solutions to 42/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 43/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -30,6 +30,7 @@
 |2,923|[Problem 16](https://github.com/tuttelikz/MATLAB-Cody/blob/master/nearZero.m)|Return the largest number that is adjacent to a zero [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/16)|
 |2,797|[Problem 94](https://github.com/tuttelikz/MATLAB-Cody/blob/master/targetSort.m)|Target sorting [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/94)|
 |2,580|[Problem 29](https://github.com/tuttelikz/MATLAB-Cody/blob/master/nearestNumbers.m)|Nearest Numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/29)|
+|2,392|[Problem 37](https://github.com/tuttelikz/MATLAB-Cody/blob/master/pascalTri.m)|Pascal's Triangle [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/37)|
 |2,358|[Problem 13](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refccn.m)|Remove all the consonants [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/13)|
 |2,246|[Problem 15](https://github.com/tuttelikz/MATLAB-Cody/blob/master/lengthOnes.m)|Find the longest sequence of 1's in a binary sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/15)|
 |2,117|[Problem 41](https://github.com/tuttelikz/MATLAB-Cody/blob/master/cellstr_joiner.m)|Cell joiner [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/41)|
@@ -44,3 +45,5 @@
 |1,160|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |960|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
+
+
