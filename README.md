@@ -42,8 +42,7 @@
 |1,533|[Problem 48](https://github.com/tuttelikz/MATLAB-Cody/blob/master/makingChange.m)|Making change [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/48)|
 |1,500|[Problem 74](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalanced.m)|Balanced number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/74)|
 |1,462|[Problem 35](https://github.com/tuttelikz/MATLAB-Cody/blob/master/quote_doubler.m)|Quote Doubler [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/35)|
+|1,442|[Problem 76](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dedupe.m)|De-dupe [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/76)|
 |1,160|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |960|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
-
-
