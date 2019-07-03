@@ -1,4 +1,8 @@
-### My solutions to 46/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### 
+This repo contains my solutions to programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)  
+Problems are sorted in the way from greater number of solvers to lower, representing ascending complexity.  
+Solutions are correct, but not the most efficient. Repo is currently in progress :zap:  
+If you would like to comment or send a pull request, you are free to do so.  
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
