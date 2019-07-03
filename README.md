@@ -2,8 +2,14 @@
 This repo contains my solutions to programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)  
 Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 Solutions are correct, but not the most efficient. Repo is currently in progress :zap:  
-If you would like to comment or send a pull request, you are free to do so.  
+Thanks for inspiration: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)  
+If you would like to propose a better solution, please send a pull request. You are free to contact.  
 
+Github: [@tuttelikz](https://github.com/tuttelikz)  
+Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
+Email: s.askaruly@gmail.com  
+
+***
 | Solvers &darr; | Likes | Order | Problem description |  
 | ------------- | ------------- | ------------- | ------------- |
 |33,022|112|[Problem 1](https://github.com/tuttelikz/MATLAB-Cody/blob/master/times2.m)|Times 2 - START HERE [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/1)|
