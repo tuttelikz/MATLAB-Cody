@@ -1,4 +1,4 @@
-### My solutions to 45/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
+### My solutions to 46/94 programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)
 
 | Solvers &darr; | Order  | Problem description |  
 | ------------- | ------------- | ------------- |
@@ -36,6 +36,7 @@
 |2,117|[Problem 41](https://github.com/tuttelikz/MATLAB-Cody/blob/master/cellstr_joiner.m)|Cell joiner [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/41)|
 |1,909|[Problem 42](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_product.m)|Find the alphabetic word product [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/42)|
 |1,841|[Problem 27](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isPangram.m)|Pangrams! [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/27)|
+|1,813|[Problem 34](https://github.com/tuttelikz/MATLAB-Cody/blob/master/binary_numbers.m)|Binary numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/34)|
 |1,811|[Problem 28](https://github.com/tuttelikz/MATLAB-Cody/blob/master/moneySum.m)|Counting Money [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/28)|
 |1,672|[Problem 46](https://github.com/tuttelikz/MATLAB-Cody/blob/master/which_doors_open.m)|Which doors are open? [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/46)|
 |1,617|[Problem 73](https://github.com/tuttelikz/MATLAB-Cody/blob/master/replace_nans.m)|Replace NaNs with the number that appears to its left in the row. [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/73)|
