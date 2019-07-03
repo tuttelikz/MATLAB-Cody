@@ -1,13 +1,19 @@
-### 
-This repo contains my solutions to programming challenges on [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2)  
-Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
-Solutions are correct, but not the most efficient. Repo is currently in progress :zap:  
+### Solutions to programming challenges on MATLAB Cody
+This repository contains 46 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+- Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
+- Solutions are correct, but not the most efficient.
+
 Thanks for inspiration: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)  
 If you would like to propose a better solution, please send a pull request. You are free to contact.  
 
 Github: [@tuttelikz](https://github.com/tuttelikz)  
 Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
 Email: s.askaruly@gmail.com  
+
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/MATLAB-Cody.svg
+)](https://github.com/tuttelikz/MATLAB-Cody)
+[![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/MATLAB-Cody.svg
+)](https://github.com/tuttelikz/MATLAB-Cody) 
 
 ***
 | Solvers &darr; | Likes | Order | Problem description |  
