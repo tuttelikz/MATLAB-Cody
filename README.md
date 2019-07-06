@@ -1,5 +1,5 @@
 ### Solutions to programming challenges on MATLAB Cody
-This repository contains 51 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 52 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
@@ -63,6 +63,7 @@ Email: s.askaruly@gmail.com
 |1,500|16|[Problem 74](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalanced.m)|Balanced number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/74)|
 |1,462|5|[Problem 35](https://github.com/tuttelikz/MATLAB-Cody/blob/master/quote_doubler.m)|Quote Doubler [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/35)|
 |1,442|8|[Problem 76](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dedupe.m)|De-dupe [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/76)|
+|1,329|10|[Problem 62](https://github.com/tuttelikz/MATLAB-Cody/blob/master/elapsed_time.m)|Elapsed Time [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/62)|
 |1,248|9|[Problem 40](https://github.com/tuttelikz/MATLAB-Cody/blob/master/RevCountSeq.m)|Reverse Run-Length Encoder [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/40)|
 |1,160|10|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
 |1,131|4|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
