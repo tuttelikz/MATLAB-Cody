@@ -1,5 +1,5 @@
 ### Solutions to programming challenges on MATLAB Cody
-This repository contains 52 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 53 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
@@ -66,6 +66,7 @@ Email: s.askaruly@gmail.com
 |1,329|10|[Problem 62](https://github.com/tuttelikz/MATLAB-Cody/blob/master/elapsed_time.m)|Elapsed Time [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/62)|
 |1,248|9|[Problem 40](https://github.com/tuttelikz/MATLAB-Cody/blob/master/RevCountSeq.m)|Reverse Run-Length Encoder [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/40)|
 |1,160|10|[Problem 38](https://github.com/tuttelikz/MATLAB-Cody/blob/master/popularity.m)|Return a list sorted by number of occurrences [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/38)|
+|1,151|6|[Problem 72](https://github.com/tuttelikz/MATLAB-Cody/blob/master/interpolator.m)|Interpolator [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/72)|
 |1,131|4|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |1,113|4|[Problem 44](https://github.com/tuttelikz/MATLAB-Cody/blob/master/removeSpaces.m)|Trimming Spaces [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/44)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
