@@ -1,5 +1,5 @@
 ### Solutions to programming challenges on MATLAB Cody
-This repository contains 53 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 54 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
@@ -73,4 +73,5 @@ Email: s.askaruly@gmail.com
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
 |717|8|[Problem 67](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row.m)|Find common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/67)|
+|703|6|[Problem 70](https://github.com/tuttelikz/MATLAB-Cody/blob/master/alphabetize.m)|Alphabetize by last name [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/70)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
