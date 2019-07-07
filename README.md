@@ -2,7 +2,7 @@
 
 <img src="Matlab_Logo.png" width="40" height="40" align="middle" alt="MATLAB icon" /> 
 
-This repository contains 55 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 56 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
@@ -74,6 +74,7 @@ Email: s.askaruly@gmail.com
 |1,151|6|[Problem 72](https://github.com/tuttelikz/MATLAB-Cody/blob/master/interpolator.m)|Interpolator [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/72)|
 |1,131|4|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |1,113|4|[Problem 44](https://github.com/tuttelikz/MATLAB-Cody/blob/master/removeSpaces.m)|Trimming Spaces [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/44)|
+|992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
