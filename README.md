@@ -6,7 +6,7 @@ This repository contains 56 out of 94 solutions to [MATLAB Cody](https://www.mat
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
-- Solutions are correct, but not the most efficient.
+- Solutions are correct and commented, but not the most efficient.
 
 Online compiler at:  
 https://matlab.mathworks.com
