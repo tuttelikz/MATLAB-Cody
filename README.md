@@ -1,8 +1,13 @@
 ### Solutions to programming challenges on MATLAB Cody
+
+<img src="Matlab_Logo.png" width="40" height="40" align="middle" alt="MATLAB icon" /> 
+
 This repository contains 55 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
+
+     
 Online compiler at:  
 https://matlab.mathworks.com
 
