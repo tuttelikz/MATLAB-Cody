@@ -3,17 +3,15 @@
 <img src="Matlab_Logo.png" width="40" height="40" align="middle" alt="MATLAB icon" /> 
 
 This repository contains 56 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
-- Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
+
+Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
+- Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct, but not the most efficient.
 
-
-     
 Online compiler at:  
 https://matlab.mathworks.com
 
-Thanks for inspiration: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)  
-If you would like to contribute, you are free to contact.  
-
+If you would like to contribute, you are free to contact:  
 Github: [@tuttelikz](https://github.com/tuttelikz)  
 Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
 Email: s.askaruly@gmail.com  
