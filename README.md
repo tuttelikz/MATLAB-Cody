@@ -1,5 +1,5 @@
 ### Solutions to programming challenges on MATLAB Cody
-This repository contains 54 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 55 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted in the way from greater number of solvers to lower, representing complexity ascending.  
 - Solutions are correct, but not the most efficient.
 
@@ -74,4 +74,5 @@ Email: s.askaruly@gmail.com
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
 |717|8|[Problem 67](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row.m)|Find common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/67)|
 |703|6|[Problem 70](https://github.com/tuttelikz/MATLAB-Cody/blob/master/alphabetize.m)|Alphabetize by last name [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/70)|
+|692|9|[Problem 69](https://github.com/tuttelikz/MATLAB-Cody/blob/master/peakOfPeaks.m)|Find the peak 3n+1 sequence value [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/69)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
