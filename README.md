@@ -1,6 +1,7 @@
-### Solutions to programming challenges on MATLAB Cody
+## Solutions to programming challenges on MATLAB Cody
+<img src="Matlab_Logo.png" width="40" height="40" align="middle" alt="MATLAB icon" />   
 
-<img src="Matlab_Logo.png" width="40" height="40" align="middle" alt="MATLAB icon" /> 
+#### Description:
 
 This repository contains 57 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
@@ -9,19 +10,15 @@ Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.c
 - Solutions are correct and commented, but not the most efficient.
 
 Online compiler at:  
-https://matlab.mathworks.com
-
-If you would like to contribute, you are free to contact:  
-Github: [@tuttelikz](https://github.com/tuttelikz)  
-Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
-Email: s.askaruly@gmail.com  
+https://matlab.mathworks.com  
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody)
 [![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody) 
 
-***
+#### Contents:
+
 | Solvers &darr; | Likes | Order | Problem description |  
 | ------------- | ------------- | ------------- | ------------- |
 |33,022|112|[Problem 1](https://github.com/tuttelikz/MATLAB-Cody/blob/master/times2.m)|Times 2 - START HERE [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/1)|
@@ -81,3 +78,12 @@ Email: s.askaruly@gmail.com
 |692|9|[Problem 69](https://github.com/tuttelikz/MATLAB-Cody/blob/master/peakOfPeaks.m)|Find the peak 3n+1 sequence value [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/69)|
 |597|7|[Problem 55](https://github.com/tuttelikz/MATLAB-Cody/blob/master/CountSeq.m)|Counting Sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/55)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
+
+#### Contacts:
+If you would like to contribute, you are free to contact:  
+Github: [@tuttelikz](https://github.com/tuttelikz)  
+Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
+Email: s.askaruly@gmail.com  
+
+#### License:
+[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE) © Sanzhar Askaruly
