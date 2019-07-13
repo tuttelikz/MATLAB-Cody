@@ -12,6 +12,7 @@ Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.c
 Useful links:
 - [Online Compiler](https://matlab.mathworks.com)  
 - [Rosetta Code](http://rosettacode.org/wiki/Category:MATLAB)  
+- [MATLAB Documentation](https://www.mathworks.com/help/matlab/index.html)  
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody)
