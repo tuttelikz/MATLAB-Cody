@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 60 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 61 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
@@ -73,6 +73,7 @@ Useful links:
 |1,113|4|[Problem 44](https://github.com/tuttelikz/MATLAB-Cody/blob/master/removeSpaces.m)|Trimming Spaces [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/44)|
 |992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
+|922|1|[Problem 47](https://github.com/tuttelikz/MATLAB-Cody/blob/master/leadingDigit.m)|Extract leading non-zero digit [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/47)|
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
 |717|8|[Problem 67](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row.m)|Find common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/67)|
