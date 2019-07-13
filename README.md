@@ -9,8 +9,9 @@ Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.c
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
-Online compiler at:  
-https://matlab.mathworks.com  
+Useful links:
+- [Online Compiler](https://matlab.mathworks.com)  
+- [Rosetta Code](http://rosettacode.org/wiki/Category:MATLAB)  
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody)
