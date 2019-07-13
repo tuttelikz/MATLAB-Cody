@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 61 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 62 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
@@ -71,6 +71,7 @@ Useful links:
 |1,151|6|[Problem 72](https://github.com/tuttelikz/MATLAB-Cody/blob/master/interpolator.m)|Interpolator [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/72)|
 |1,131|4|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |1,113|4|[Problem 44](https://github.com/tuttelikz/MATLAB-Cody/blob/master/removeSpaces.m)|Trimming Spaces [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/44)|
+|1,085|9|[Problem 45](https://github.com/tuttelikz/MATLAB-Cody/blob/master/find_palindrome.m)|Make a Palindrome Number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/45)|
 |992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
 |922|1|[Problem 47](https://github.com/tuttelikz/MATLAB-Cody/blob/master/leadingDigit.m)|Extract leading non-zero digit [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/47)|
@@ -84,6 +85,7 @@ Useful links:
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
 |513|5|[Problem 86](https://github.com/tuttelikz/MATLAB-Cody/blob/master/renamefield.m)|Renaming a field in a structure array [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/86)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
+
 
 #### Contacts:
 If you would like to contribute, you are free to contact:  
