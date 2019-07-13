@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 59 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 60 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
@@ -77,6 +77,7 @@ Useful links:
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
 |717|8|[Problem 67](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row.m)|Find common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/67)|
 |703|6|[Problem 70](https://github.com/tuttelikz/MATLAB-Cody/blob/master/alphabetize.m)|Alphabetize by last name [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/70)|
+|700|10|[Problem 80](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalancedParentheses.m)|Test for balanced parentheses [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/80)|
 |692|9|[Problem 69](https://github.com/tuttelikz/MATLAB-Cody/blob/master/peakOfPeaks.m)|Find the peak 3n+1 sequence value [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/69)|
 |597|7|[Problem 55](https://github.com/tuttelikz/MATLAB-Cody/blob/master/CountSeq.m)|Counting Sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/55)|
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
