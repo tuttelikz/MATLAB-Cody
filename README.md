@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 63 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 64 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
@@ -74,6 +74,7 @@ Useful links:
 |1,085|9|[Problem 45](https://github.com/tuttelikz/MATLAB-Cody/blob/master/find_palindrome.m)|Make a Palindrome Number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/45)|
 |1,050|10|[Problem 59](https://github.com/tuttelikz/MATLAB-Cody/blob/master/matchPattern.m)|Pattern matching [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/59)|
 |992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
+|992|3|[Problem 87](https://github.com/tuttelikz/MATLAB-Cody/blob/master/prob_table.m)|Indexed Probability Table [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/87)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
 |922|1|[Problem 47](https://github.com/tuttelikz/MATLAB-Cody/blob/master/leadingDigit.m)|Extract leading non-zero digit [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/47)|
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
