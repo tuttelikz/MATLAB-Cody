@@ -72,6 +72,7 @@ Useful links:
 |1,131|4|[Problem 51](https://github.com/tuttelikz/MATLAB-Cody/blob/master/mostDistant.m)|Find the two most distant points [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/51)|
 |1,113|4|[Problem 44](https://github.com/tuttelikz/MATLAB-Cody/blob/master/removeSpaces.m)|Trimming Spaces [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/44)|
 |1,085|9|[Problem 45](https://github.com/tuttelikz/MATLAB-Cody/blob/master/find_palindrome.m)|Make a Palindrome Number [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/45)|
+|1,050|10|[Problem 59](https://github.com/tuttelikz/MATLAB-Cody/blob/master/matchPattern.m)|Pattern matching [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/59)|
 |992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
 |922|1|[Problem 47](https://github.com/tuttelikz/MATLAB-Cody/blob/master/leadingDigit.m)|Extract leading non-zero digit [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/47)|
