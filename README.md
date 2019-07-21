@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 64 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 65 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 
 Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
@@ -83,11 +83,11 @@ Useful links:
 |703|6|[Problem 70](https://github.com/tuttelikz/MATLAB-Cody/blob/master/alphabetize.m)|Alphabetize by last name [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/70)|
 |700|10|[Problem 80](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalancedParentheses.m)|Test for balanced parentheses [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/80)|
 |692|9|[Problem 69](https://github.com/tuttelikz/MATLAB-Cody/blob/master/peakOfPeaks.m)|Find the peak 3n+1 sequence value [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/69)|
+|678|7|[Problem 56](https://github.com/tuttelikz/MATLAB-Cody/blob/master/scrabble_score.m)|Scrabble Scores [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/56)|
 |597|7|[Problem 55](https://github.com/tuttelikz/MATLAB-Cody/blob/master/CountSeq.m)|Counting Sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/55)|
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
 |513|5|[Problem 86](https://github.com/tuttelikz/MATLAB-Cody/blob/master/renamefield.m)|Renaming a field in a structure array [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/86)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
-
 
 #### Contacts:
 If you would like to contribute, you are free to contact:  
