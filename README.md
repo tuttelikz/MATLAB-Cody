@@ -4,12 +4,13 @@
 #### Description:
 
 This repository contains 67 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
-
-Thanks for inspiration to: `HackerrankPractice` by [@marinskiy](https://github.com/marinskiy)   
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
-Useful links:
+**Inspiration:**     
+Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](https://github.com/marinskiy/HackerrankPractice)
+
+**Useful links:**
 - [Online Compiler](https://matlab.mathworks.com)  
 - [Rosetta Code](http://rosettacode.org/wiki/Category:MATLAB)  
 - [MATLAB Documentation](https://www.mathworks.com/help/matlab/index.html)  
