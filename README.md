@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 69 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 70 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -82,6 +82,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
 |805|3|[Problem 53](https://github.com/tuttelikz/MATLAB-Cody/blob/master/duplicates.m)|Duplicates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/53)|
+|767|5|[Problem 54](https://github.com/tuttelikz/MATLAB-Cody/blob/master/running_product.m)|Maximum running product for a string of numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/54)|
 |717|8|[Problem 67](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row.m)|Find common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/67)|
 |703|6|[Problem 70](https://github.com/tuttelikz/MATLAB-Cody/blob/master/alphabetize.m)|Alphabetize by last name [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/70)|
 |700|10|[Problem 80](https://github.com/tuttelikz/MATLAB-Cody/blob/master/isBalancedParentheses.m)|Test for balanced parentheses [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/80)|
