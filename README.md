@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 68 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 69 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -77,6 +77,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |992|5|[Problem 57](https://github.com/tuttelikz/MATLAB-Cody/blob/master/number_sum.m)|Summing Digits within Text [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/57)|
 |992|3|[Problem 87](https://github.com/tuttelikz/MATLAB-Cody/blob/master/prob_table.m)|Indexed Probability Table [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/87)|
 |960|11|[Problem 31](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remAin.m)|Remove all the words that end with "ain" [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/31)|
+|940|9|[Problem 49](https://github.com/tuttelikz/MATLAB-Cody/blob/master/no_digit_sum.m)|Sums with Excluded Digits [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/49)|
 |922|1|[Problem 47](https://github.com/tuttelikz/MATLAB-Cody/blob/master/leadingDigit.m)|Extract leading non-zero digit [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/47)|
 |910|4|[Problem 50](https://github.com/tuttelikz/MATLAB-Cody/blob/master/qwerty_coord.m)|QWERTY coordinates [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/50)|
 |895|11|[Problem 64](https://github.com/tuttelikz/MATLAB-Cody/blob/master/goldbach2.m)|The Goldbach Conjecture, Part 2 [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/64)|
