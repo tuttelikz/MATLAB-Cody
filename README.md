@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 72 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 73 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -95,6 +95,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
 |513|5|[Problem 86](https://github.com/tuttelikz/MATLAB-Cody/blob/master/renamefield.m)|Renaming a field in a structure array [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/86)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
+|508|13|[Problem 58](https://github.com/tuttelikz/MATLAB-Cody/blob/master/ticTacToe.m)|Tic Tac Toe FTW [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/58)|
 |485|1|[Problem 63](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dec2rom.m)|Encode Roman Numerals [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/63)|
 
 #### Contacts:
