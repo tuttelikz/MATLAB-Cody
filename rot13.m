@@ -43,5 +43,4 @@ function s2 = rot13(s1)
             s_out = s_in;
         end
     end
-    
 end
