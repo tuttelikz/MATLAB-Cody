@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 75 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 76 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -99,6 +99,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
 |508|13|[Problem 58](https://github.com/tuttelikz/MATLAB-Cody/blob/master/ticTacToe.m)|Tic Tac Toe FTW [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/58)|
 |485|1|[Problem 63](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dec2rom.m)|Encode Roman Numerals [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/63)|
+|337|11|[Problem 96](https://github.com/tuttelikz/MATLAB-Cody/blob/master/knights_tour.m)|Knight's Tour Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/96)|
 
 
 #### Contacts:
