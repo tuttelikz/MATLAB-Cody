@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 77 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 78 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -96,12 +96,12 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |597|7|[Problem 55](https://github.com/tuttelikz/MATLAB-Cody/blob/master/CountSeq.m)|Counting Sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/55)|
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
 |513|5|[Problem 86](https://github.com/tuttelikz/MATLAB-Cody/blob/master/renamefield.m)|Renaming a field in a structure array [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/86)|
+|512|10|[Problem 83](https://github.com/tuttelikz/MATLAB-Cody/blob/master/factor_digits.m)|Prime factor digits [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/83)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
 |508|13|[Problem 58](https://github.com/tuttelikz/MATLAB-Cody/blob/master/ticTacToe.m)|Tic Tac Toe FTW [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/58)|
 |485|1|[Problem 63](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dec2rom.m)|Encode Roman Numerals [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/63)|
 |425|1|[Problem 85](https://github.com/tuttelikz/MATLAB-Cody/blob/master/find_stable.m)|Remove the polynomials that have positive real elements of their roots [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/85)|
 |337|11|[Problem 96](https://github.com/tuttelikz/MATLAB-Cody/blob/master/knights_tour.m)|Knight's Tour Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/96)|
-
 
 #### Contacts:
 If you would like to contribute, you are free to contact:  
