@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 79 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 80 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -95,6 +95,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |610|4|[Problem 36](https://github.com/tuttelikz/MATLAB-Cody/blob/master/common_by_row2.m)|Find relatively common elements in matrix rows [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/36)|
 |597|7|[Problem 55](https://github.com/tuttelikz/MATLAB-Cody/blob/master/CountSeq.m)|Counting Sequence [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/55)|
 |583|1|[Problem 77](https://github.com/tuttelikz/MATLAB-Cody/blob/master/clean_list.m)|Clean the List of Names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/77)|
+|521|2|[Problem 66](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_2word.m)|Find the two-word state names [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/66)|
 |513|5|[Problem 86](https://github.com/tuttelikz/MATLAB-Cody/blob/master/renamefield.m)|Renaming a field in a structure array [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/86)|
 |512|10|[Problem 83](https://github.com/tuttelikz/MATLAB-Cody/blob/master/factor_digits.m)|Prime factor digits [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/83)|
 |509|5|[Problem 61](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_A.m)|Find state names that end with the letter A [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/61)|
