@@ -105,6 +105,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |485|1|[Problem 63](https://github.com/tuttelikz/MATLAB-Cody/blob/master/dec2rom.m)|Encode Roman Numerals [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/63)|
 |472|7|[Problem 88](https://github.com/tuttelikz/MATLAB-Cody/blob/master/scrambleText.m)|It dseon't mettar waht oedrr the lrettes in a wrod are [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/88)|
 |449|4|[Problem 82](https://github.com/tuttelikz/MATLAB-Cody/blob/master/remove_small_words.m)|Remove the small words from a list of words [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/82)|
+|448|4|[Problem 75](https://github.com/tuttelikz/MATLAB-Cody/blob/master/pal.m)|Find the palindrome [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/75)|
 |440|1|[Problem 92](https://github.com/tuttelikz/MATLAB-Cody/blob/master/refcn_N.m)|Find state names that start with the letter N [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/92)|
 |425|1|[Problem 85](https://github.com/tuttelikz/MATLAB-Cody/blob/master/find_stable.m)|Remove the polynomials that have positive real elements of their roots [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/85)|
 |382|5|[Problem 65](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_index.m)|Word Counting and Indexing [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/65)|
