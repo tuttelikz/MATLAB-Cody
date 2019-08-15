@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 88 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 89 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -112,6 +112,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |382|5|[Problem 65](https://github.com/tuttelikz/MATLAB-Cody/blob/master/word_index.m)|Word Counting and Indexing [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/65)|
 |337|11|[Problem 96](https://github.com/tuttelikz/MATLAB-Cody/blob/master/knights_tour.m)|Knight's Tour Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/96)|
 |322|6|[Problem 84](https://github.com/tuttelikz/MATLAB-Cody/blob/master/divisor_run.m)|Longest Divisor Run [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/84)|
+|317|12|[Problem 90](https://github.com/tuttelikz/MATLAB-Cody/blob/master/c4winner.m)|Connect Four Win Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/90)|
 
 #### Contacts:
 If you would like to contribute, you are free to contact:  
