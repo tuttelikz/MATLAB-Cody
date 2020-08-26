@@ -123,4 +123,4 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 Feel free to use. No credits.
 
 #### License:
-[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE) © Sanzhar Askaruly
+[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
