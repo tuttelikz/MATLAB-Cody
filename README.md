@@ -20,11 +20,11 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 [![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody)
 
-#### Note:
-Feel free to use. No credits.
-
 #### License:
 [MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
+
+#### Note:
+Feel free to use. No credits.
 
 #### Contents:
 
