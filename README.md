@@ -120,10 +120,7 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |288|8|[Problem 95](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/overlap.m)|Given two strings, find the maximum overlap [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/95)|
 
 #### Contacts:
-If you would like to contribute, you are free to contact:  
-Github: [@tuttelikz](https://github.com/tuttelikz)  
-Mathworks: [@tuttelikz](https://www.mathworks.com/matlabcentral/profile/authors/3072952-sanzhar-askaruly)  
-Email: s.askaruly@gmail.com  
+Feel free to use. No credits.
 
 #### License:
 [MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE) © Sanzhar Askaruly
