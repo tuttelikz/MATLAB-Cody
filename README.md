@@ -20,6 +20,12 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 [![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/MATLAB-Cody.svg
 )](https://github.com/tuttelikz/MATLAB-Cody)
 
+#### Note:
+Feel free to use. No credits.
+
+#### License:
+[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
+
 #### Contents:
 
 | Solvers &darr; | Likes | Order | Problem description |  
@@ -118,9 +124,3 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |317|12|[Problem 90](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/c4winner.m)|Connect Four Win Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/90)|
 |290|7|[Problem 93](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/levenshtein.m)|Calculate the Levenshtein distance between two strings [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/93)|
 |288|8|[Problem 95](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/overlap.m)|Given two strings, find the maximum overlap [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/95)|
-
-#### Contacts:
-Feel free to use. No credits.
-
-#### License:
-[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
