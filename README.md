@@ -23,9 +23,6 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 #### License:
 [MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
 
-#### Note:
-Feel free to use. No credits.
-
 #### Contents:
 
 | Solvers &darr; | Likes | Order | Problem description |  
