@@ -3,7 +3,7 @@
 
 #### Description:
 
-This repository contains 94 out of 94 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
+This repository contains 97 solutions to [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/groups/2) practice problems with MATLAB language
 - Problems are sorted from greater number of solvers to lower, representing increasing complexity.  
 - Solutions are correct and commented, but not the most efficient.
 
@@ -121,3 +121,6 @@ Thanks to [@marinskiy](https://github.com/marinskiy) for [`HackerrankPractice`](
 |317|12|[Problem 90](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/c4winner.m)|Connect Four Win Checker [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/90)|
 |290|7|[Problem 93](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/levenshtein.m)|Calculate the Levenshtein distance between two strings [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/93)|
 |288|8|[Problem 95](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/overlap.m)|Given two strings, find the maximum overlap [:link:](https://www.mathworks.com/matlabcentral/cody/groups/2/problems/95)|
+|||[Problem 672](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/consecutive_numbers.m)|Longest run of consecutive numbers [:link:](https://www.mathworks.com/matlabcentral/cody/groups/1110/problems/672)
+|||[Problem 44960](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/rescale_scores.m)|Rescale Scores [:link:](https://www.mathworks.com/matlabcentral/cody/problems/44960)
+|||[Problem 44948](https://github.com/tuttelikz/MATLAB-Cody/blob/master/functions/damped_sinusoid.m)|Calculate a Damped Sinusoid [:link:](https://www.mathworks.com/matlabcentral/cody/groups/1110/problems/44948)
